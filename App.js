@@ -72,7 +72,6 @@ const styles = StyleSheet.create({
     paddingBottom: 200,
     justifyContent: 'center',
     alignItems: 'center',
-    marginTop: 20,
     backgroundColor: 'rgba(0, 0, 0, 0.4)',
   },
   modalView: {
@@ -100,7 +99,6 @@ const styles = StyleSheet.create({
   },
   button: {
     borderRadius: 20,
-    border: '1px solid black',
     padding: 40,
     elevation: 2,
   },
